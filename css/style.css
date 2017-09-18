@@ -104,14 +104,12 @@ Header Area
 .header .app_content h3 {
     font-size: 48px;
     color: #fff;
-    font-family: fantasy;
     font-weight: 300;
     color: #fff;
 }
 
 .header .app_content p {
     font-size: 16px;
-    font-family: fantasy;
     font-weight: 300;
     color: #D4D4D5;
 }
